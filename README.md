@@ -55,7 +55,3 @@ confusion with N-terminal transmembrane helices.
 ## Status
 
 Work in progress.
-
-## Academic context
-
-Developed as part of the Laboratory of Bioinformatics 2 course.
