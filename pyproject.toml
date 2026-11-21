@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Machine-learning pipeline for secretory signal peptide prediction."
 readme = "README.md"
 
-dependencies = []
+dependencies = ["requests"]
 
 [build-system]
 requires = ["setuptools>=68"]

@@ -33,3 +33,4 @@ data/processed/*
 
 # Generated results
 results/models/
+/.venv/
